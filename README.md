@@ -39,3 +39,8 @@ This book has contents about 189 programming interview questions, ranging from t
 
 * [HackerRank](https://www.hackerrank.com/)  
 This is a service which can give a score to a software engineer's skills and realize an appropriate recruitment. An engineer can prove his own skills by taking more than 4000 free published tests which is called "Code challenge".  
+
+* SDETs(Software design engineers in test)
+* If, like many candidates, you are hoping to apply to an SDET position as the "easy" way into a company, be aware that many candidates find it very difficult to move from an SDET position to a dev position.  
+* Make sure to keep your coding and algorithms skills very sharp if you hope to make this move, and try to switch within one to two years.  
+* Never let your coding skills atrophy.  
